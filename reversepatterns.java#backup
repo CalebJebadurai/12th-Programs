@@ -1,0 +1,49 @@
+import java.io.*;
+import java.util.*;
+import java.util.Scanner;
+class reversepatterns
+    {
+        public static void main(String args[])throws IOException
+        {
+            try
+            {
+                int i,j,k,l;
+                BufferedReader in=new BufferedReader(new InputStreamReader(System.in));
+                System.out.println("ENTER THE NUMBERS OF ROWS");
+                int n=Integer.parseInt(in.readLine());
+                {
+                    for(i=1;i<=n;i++)
+                    {
+                        for(j=1;j<=i;j++)
+                        {
+                            System.out.print(""+i);
+                        }
+                        System.out.print("");
+                    }
+                    for(i=n;i>=1;i--)
+                    {
+                        for(j=1;j<=i;j++)
+                        {
+                            System.out.print(""+(char)(64+i));
+                        }
+                        System.out.println();
+                    }
+                }
+            }
+        catch(Exception e){}
+        }
+    }    
+// //                                     }
+// //                     for(i=n;i>=1;i--)
+// //                     {
+// //                         for(j=1;j<=i;j++)
+// //                         {
+// //                             System.out.print(""+(char)(64+i));
+// //                         }
+// //                         System.out.println();
+//                     }
+//                 }
+//             }
+//             catch(Exception e){}
+//         }
+//     }

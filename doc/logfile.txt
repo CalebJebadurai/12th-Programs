@@ -1,0 +1,228 @@
+Class documentation
+<---- javadoc command: ---->
+D:\caleb java\Java jdk Original\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+D:\caleb java\blue j\blue j 3.1.1\blue j 3.1.1\lib\bluejcore.jar;D:\caleb java\blue j\blue j 3.1.1\blue j 3.1.1\lib\junit-4.8.2.jar;D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB
+-d
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+-docletpath
+D:\caleb java\blue j\blue j 3.1.1\blue j 3.1.1\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\RemoveDupChar.java
+<---- end of javadoc command ---->
+Loading source file D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\RemoveDupChar.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_51
+Building tree for all the packages and classes...
+Generating D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\doc\Important_JavA_Programs_ISC\RemoveDupChar.html...
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:1: error: class, interface, or enum expected
+int count(Node ptr_start)
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:4: error: class, interface, or enum expected
+Node ptr = new Node();
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:5: error: class, interface, or enum expected
+ptr = ptr_start;
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:6: error: class, interface, or enum expected
+while(ptr.link != null)
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:9: error: class, interface, or enum expected
+ptr = ptr.next;
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:10: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:12: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:16: error: class, interface, or enum expected
+node ptr = new node();
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:17: error: class, interface, or enum expected
+ptr = start;
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:18: error: class, interface, or enum expected
+while(ptr.link != null)
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:23: error: class, interface, or enum expected
+System.out.println("Content of the node  = " + ptr.p);
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:24: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:26: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:29: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:33: error: class, interface, or enum expected
+ListNodes ptr = new ListNodes();
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:34: error: class, interface, or enum expected
+ptr = start;
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:35: error: class, interface, or enum expected
+while(ptr.link != null)
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:38: error: class, interface, or enum expected
+ptr = ptr.next;
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:39: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:41: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:46: error: class, interface, or enum expected
+Node ptr = new Node();
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:47: error: class, interface, or enum expected
+ptr = start;
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:48: error: class, interface, or enum expected
+while(ptr.link != null)
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:53: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:55: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:58: error: class, interface, or enum expected
+else
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:60: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:65: error: class, interface, or enum expected
+ptr = start;
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:66: error: class, interface, or enum expected
+System.out.println("Data in the linked list are: ");
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:67: error: class, interface, or enum expected
+while(ptr.link != null)
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:70: error: class, interface, or enum expected
+ptr = ptr.next;
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:71: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:77: error: class, interface, or enum expected
+    temp.data = x;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:78: error: class, interface, or enum expected
+    temp.link = start;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:79: error: class, interface, or enum expected
+    start = temp;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:80: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:85: error: class, interface, or enum expected
+    temp.data = x;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:86: error: class, interface, or enum expected
+    Node ptr = new Node();
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:87: error: class, interface, or enum expected
+    ptr = start;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:89: error: class, interface, or enum expected
+    int c = 0;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:90: error: class, interface, or enum expected
+    while(c <= n) //'ptr' will access all nodes up to the nth node
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:93: error: class, interface, or enum expected
+        c++;
+        ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:94: error: class, interface, or enum expected
+    }
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:97: error: class, interface, or enum expected
+    ptr.link = temp;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:98: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:102: error: class, interface, or enum expected
+    temp.data = x;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:103: error: class, interface, or enum expected
+    Node ptr = new Node();
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:104: error: class, interface, or enum expected
+    ptr = start;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:106: error: class, interface, or enum expected
+    while(ptr.link != null) //'ptr' will access all nodes up to the last node
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:109: error: class, interface, or enum expected
+    }
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:112: error: class, interface, or enum expected
+    ptr.link = temp;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:113: error: class, interface, or enum expected
+}
+^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:117: error: class, interface, or enum expected
+    Node ptr1 = new Node(); //'ptr1' is the node just before the node to be deleted
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:118: error: class, interface, or enum expected
+    ptr = start;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:119: error: class, interface, or enum expected
+    ptr1 = ptr;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:121: error: class, interface, or enum expected
+    int c = 0;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:122: error: class, interface, or enum expected
+    while(c <= n)
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:125: error: class, interface, or enum expected
+        ptr = ptr.link;
+        ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:126: error: class, interface, or enum expected
+        c++;
+        ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:127: error: class, interface, or enum expected
+    }
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:130: error: class, interface, or enum expected
+    ptr.link = null;
+    ^
+D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\Important_JavA_Programs_ISC\ku.java:131: error: class, interface, or enum expected
+}
+^
+Generating D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\doc\Important_JavA_Programs_ISC\package-frame.html...
+Generating D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\doc\Important_JavA_Programs_ISC\package-summary.html...
+Generating D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\doc\allclasses-frame.html...
+Generating D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\doc\allclasses-noframe.html...
+Generating D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\doc\index.html...
+Generating D:\ALLL\Julie\%JAVA%\%JAVA%\CALEB\doc\stylesheet.css...
+62 errors
